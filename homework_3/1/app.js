@@ -3,7 +3,7 @@ var newArray = []
 for(var i = 0;i < array.length;i++){
     var numString=array[i].toString()
     if(numString[0]==='2'||numString[0]==='5')
-        console.log(newArray)
         newArray.push(array[i])
-
 }
+
+console.log(newArray)

@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe3b4a53-0ee8-4f82-af0c-d7df831e9f8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework_3/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_2" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_3/1/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework_3/1/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework_2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="2VtdghQHIHUOSEFDqPfuxmfcjVm" />
@@ -83,7 +87,7 @@
       <workItem from="1697018479103" duration="148000" />
       <workItem from="1697019613700" duration="4000" />
       <workItem from="1697203761910" duration="5581000" />
-      <workItem from="1697211484813" duration="6660000" />
+      <workItem from="1697211484813" duration="9262000" />
     </task>
     <servers />
   </component>
