@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe3b4a53-0ee8-4f82-af0c-d7df831e9f8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/homework_2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework_2" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="2VtdghQHIHUOSEFDqPfuxmfcjVm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\untitled\homework_3\1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe3b4a53-0ee8-4f82-af0c-d7df831e9f8d" name="Changes" comment="" />
+      <created>1695659423721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695659423721</updated>
+      <workItem from="1695659424679" duration="426000" />
+      <workItem from="1695659865135" duration="4449000" />
+      <workItem from="1695664349557" duration="3418000" />
+      <workItem from="1695701555189" duration="1889000" />
+      <workItem from="1695713761401" duration="1629000" />
+      <workItem from="1696415502968" duration="161000" />
+      <workItem from="1696415932419" duration="5000" />
+      <workItem from="1696574112042" duration="3702000" />
+      <workItem from="1696578806625" duration="686000" />
+      <workItem from="1696583774117" duration="2231000" />
+      <workItem from="1696590280326" duration="1527000" />
+      <workItem from="1696592611566" duration="221000" />
+      <workItem from="1696658217985" duration="366000" />
+      <workItem from="1696658592121" duration="3000" />
+      <workItem from="1696930177529" duration="959000" />
+      <workItem from="1696934811242" duration="2445000" />
+      <workItem from="1696937331251" duration="1591000" />
+      <workItem from="1697018479103" duration="148000" />
+      <workItem from="1697019613700" duration="4000" />
+      <workItem from="1697203761910" duration="5581000" />
+      <workItem from="1697211484813" duration="6660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
