@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe3b4a53-0ee8-4f82-af0c-d7df831e9f8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_2" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_5/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_5/index..html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/index..html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/WebstormProjects&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -89,7 +92,11 @@
       <workItem from="1697223306472" duration="10000" />
       <workItem from="1697223324234" duration="133000" />
       <workItem from="1697624248561" duration="13000" />
-      <workItem from="1697810912870" duration="10456000" />
+      <workItem from="1697810912870" duration="11401000" />
+      <workItem from="1697878312054" duration="4159000" />
+      <workItem from="1697882767807" duration="45000" />
+      <workItem from="1697882819908" duration="14000" />
+      <workItem from="1697899042677" duration="424000" />
     </task>
     <servers />
   </component>

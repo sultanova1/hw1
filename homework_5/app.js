@@ -22,8 +22,16 @@ function filterBooks(books) {
     }
 }
 filterBooks(books)
+const buttonID1=document.getElementById('increment')
+console.log(buttonID1)
+const buttonID=document.getElementById('btn')
+const input=document.getElementById('count')
 
 
-
-
+buttonID1.addEventListener(`click`,function (){
+    input.value++
+})
+buttonID.addEventListener(`click`,function (){
+    input.value--
+})
 
