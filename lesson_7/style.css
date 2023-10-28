@@ -1,0 +1,21 @@
+* {
+    margin: 0px ;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.riddle {
+    border: 1px solid rgb(225, 225, 225);
+    width: 250px;
+    height: 200px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+    display: table-cell;
+}
+.toggle{
+    text-decoration: line-through;
+}
+
+
